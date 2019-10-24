@@ -1,4 +1,6 @@
 banner 
 Sign up
+- alamat
+- upload image
 fitur 
 team
